@@ -1,3 +1,4 @@
 file was created
 added this line from cloud/others
-rizal added this line while firdi do other in cloud (conflict local-cloud)
+rizal added this line while firdi do other in cloud (conflict local-cloud) // but they have resolve the conflict
+
